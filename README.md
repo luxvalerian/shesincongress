@@ -1,7 +1,10 @@
 # shesincongress
 
+<<<<<<< HEAD
 # shesincongress
 
+=======
+>>>>>>> f4114de4e6c374c1ace7b69149dd3941810f9104
 #####She's In Congress
 
 	Who are the women in Congress?  Is your address in a district represented by women? Women make up over half the population in the U.S., yet make up less than a quarter of the representatives in Congress.
