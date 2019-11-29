@@ -11,4 +11,4 @@ In this app, constituents enter their address and find out whether their address
 
 My hope for this app is to educate the user on female representation in Congress and to imagine it as a true representation of the American population in the near future.  
 
-I created this app as a student project in the online software engineering course at General Assembly.  Special thanks to my instructor, Daniel from Dallas, who has provided tremendous support and encouragement with my first baby steps into programming.
+I created this app as a student project in the online software engineering course at General Assembly.  Special thanks to my instructor, Daniel from Dallas, who has provided tremendous support and encouragement with my first steps into programming.
