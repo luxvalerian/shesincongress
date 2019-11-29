@@ -9,5 +9,6 @@ Women make up over _half the population in the U.S._, yet make up _**less than a
 
 In this app, constituents enter their address and find out whether their address is represented by women in Congress. If a woman represents their district, her name, photo, title and date of election and re-election will be displayed. If no women represent the district as entered by the user, a message will be displayed that says "Sorry, you do not have female representatives in your district."  
 
-My hope for this app is to educate the user on female representation in Congress and to imagine it as a true representation of the American population in the near future.
+My hope for this app is to educate the user on female representation in Congress and to imagine it as a true representation of the American population in the near future.  
 
+I created this app as a student project in the online software engineering course at General Assembly.  Special thanks to my instructor, Daniel from Dallas, who has provided tremendous support and encouragement with my first baby steps into programming.
