@@ -12,3 +12,6 @@ In this app, constituents enter their address and find out whether their address
 My hope for this app is to educate the user on female representation in Congress and to imagine it as a true representation of the American population in the near future.  
 
 I created this app as a student project in the online software engineering course at General Assembly.  Special thanks to my instructors, who have provided tremendous support and encouragement with my first steps into programming.
+
+https://user-images.githubusercontent.com/51331068/69842445-e9e03c00-1228-11ea-9aab-93ffebb4402b.png
+
