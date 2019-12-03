@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,47 +8,61 @@
     <title>She's in Congress</title>
     <link rel="stylesheet" href="./css/style.css">
     <script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
     <script src="./js/script.js"></script>
    <!-- Compiled and minified CSS -->
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
-   <!-- Compiled and minified JavaScript -->
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
 </head>
 
+
+
 <body>
     <h1>She's In Congress</h1>
+
     <form action="">
         <label for="address">Enter your address</label>
         <input type="text" id="address" placeholder="123 Main St., Anywhere, ST 12345" name="address">
         <input type="submit" value="Find your district">
     </form>
-    <section id="norep">
-        <p>Sorry there are no female representatives in your district.</p>
-    </section>
+
+
     <section id="results">
+        <h5><dt>Senators</dt></h5>
         <div class="container" id="senator">
             <div class="row">
                 <div class="col m4"></div>
+                <dd id="senatorList"></dd>
                 <div class="col m8">name, title, election date</div>
             </div>
         </div>
+        
+        <h5>Representative</h5>
         <div class="container" id="representative">
                 <div class="row">
                     <div class="col m4"></div>
+                    <dd id="senatorList"></dd>
                     <div class="col m8">name, title, election date</div>
                 </div>
             </div>
 
     </section>
+
+    <section id="norep">
+
+        <p>Sorry there are no female representatives in your district.</p>
+    
+    </section>
     <!-- form input field, then submit button -->
     <!-- hidden message "" -->
     <!-- js if else: field that populates when reps are female -->
 </body>
+
 </html>
 
 

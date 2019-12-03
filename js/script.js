@@ -3,12 +3,14 @@
 
 
 const response = $.ajax({
-    url: "https://api.propublica.org/congress/v1/102-116/senate/members.json",
+    url: "https://api.propublica.org/congress/v1/116/senate/members.json",
     headers: {
         "X-API-Key": "Ca2Kz91yFZHJQS0StMZLXGHYHm7tNaIRLqq4gvJK"
     }
 })
-response.then(data => 
-    $('#senator').html(data.results[0].members[0].title));
+response.then(data => {
+    // $('#senator').html(data.results[0].members[1].first_name));
     
-    // console.log(data));
+    console.log(data);
+    $('#senatorList').html(data.results.members)
+});
