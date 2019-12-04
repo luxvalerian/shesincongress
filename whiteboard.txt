@@ -14,7 +14,7 @@ Goals:
 Consider:
 Ajax call to Pro Publica's API.
 
-Update:
+Update, in order:
 1) When 'find my district' button is clicked
 2) Retrieve address entered into form/field
 3) Is there an address that correlates with the data?
