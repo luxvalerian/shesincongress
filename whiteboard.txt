@@ -14,4 +14,15 @@ Goals:
 Consider:
 Ajax call to Pro Publica's API.
 
+Update:
+1) When 'find my district' button is clicked
+2) Retrieve address entered into form/field
+3) Is there an address that correlates with the data?
+  a) - If yes
+  -- retrieve filtered data then go to 4)
+  b) - If no, 
+  -- alert message 'There are no women who represent your district.
+4) Show filtered data on the page. 
+
+
 
